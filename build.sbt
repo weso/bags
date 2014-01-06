@@ -1,4 +1,4 @@
-name := "ShExcala"
+name := "Bags"
 
 version := "1.0"
 
